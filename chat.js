@@ -6,3 +6,7 @@ switch (key) {
     default:
         break;
 }
+
+while (condition) {
+    
+}
