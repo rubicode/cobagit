@@ -1,1 +1,1 @@
-var name = "angga";
+var name = "rubi";
