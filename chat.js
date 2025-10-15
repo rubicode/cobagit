@@ -1,4 +1,4 @@
-var b = true
+var b = false
 
 switch (b) {
     case true:
