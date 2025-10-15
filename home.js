@@ -1,1 +1,1 @@
-var kata = "rumah"
+var kata = "tempat tinggal"
